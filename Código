@@ -10,16 +10,7 @@ int charToInt(char letra);
 
 void pegarTelefone ( int i ); //a variavel i representa a posicao do cliente dentro do vetor de clientes
 int verificar_telefone ( int i ); //a variavel i representa a posicao do cliente dentro do vetor de clientes
-/******************************************************************************
-NOMES: NATHANIEL, AUGUSTO, WILLIAM
-TURMA: EC41A - C11
-DATA:
-ENUNCIADO: TRABALHO DE ALGORITMOS
 
-créditos ao grupo do Marcelo, Joao e Gabriel pela funcao de validacao do CPF
-créditos ao Gabriel jancoski por auxiliar o grupo
-
-*******************************************************************************/
 #include <stdio.h>
 #include <string.h>
 
